@@ -18,6 +18,5 @@ const args = require("minimist")(process.argv.slice(2), {
         ci: "continuous_integration_variable"
     }
 });
-console.log(args);
 (() => __awaiter(void 0, void 0, void 0, function* () { return yield index_1.run(args.client_id, args.tenant_id, args.ci); }))();
 //# sourceMappingURL=cli.js.map
