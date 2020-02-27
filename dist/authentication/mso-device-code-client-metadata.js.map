@@ -1,0 +1,1 @@
+{"version":3,"file":"mso-device-code-client-metadata.js","sourceRoot":"","sources":["../../authentication/mso-device-code-client-metadata.ts"],"names":[],"mappings":";;AAEA,MAAM,yBAAyB;IA4B3B,YAAY,QAAgB;QA3B5B,mCAAmC;QACnC,+BAA0B,GAAsB,MAAM,CAAC;QACvD,mBAAc,GAAoB,CAAC,MAAM,CAAC,CAAC;QA0BvC,IAAI,CAAC,SAAS,GAAG,QAAQ,CAAC;IAC9B,CAAC;CACJ;AAED,kBAAe,yBAAyB,CAAC"}
